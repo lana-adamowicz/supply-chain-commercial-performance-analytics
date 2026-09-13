@@ -42,7 +42,7 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 **The Problem:** The critically low **13% On-Time Delivery (OTD)** is driven by unrealistic system deadlines rather than vendor operational failures. Actual delivery times remain highly consistent at **~7 days** across all 15 vendors. - **The Impact:** Overly aggressive system deadlines artificially drop the Order Fill Rate to **76.2%**, creating a phantom inventory shortage over a minor **0.5-day average delay**. 
 💡 **The Solution (Action Plan):** 
 1. **Establish realistic expected delivery dates** by aligning system settings with historical lead time data. 
-2. **Consolidate the vendor portfolio** around top-volume vendors to maximize commercial leverage and phase out unreliable bottom-tier suppliers after establishing new realistic deadlines.
+2. **Consolidate the vendor portfolio** around top-volume vendors to maximize commercial leverage and phase out unreliable bottom-tier vendors after establishing new realistic deadlines.
 3. **Optimize regional logistics:** Re-evaluate or suspend operations in regions with the sharpest revenue drops after considering the previous two points and based on recalculated KPI values.
    
 ---
