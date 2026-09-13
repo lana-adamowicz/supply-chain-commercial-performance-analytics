@@ -43,7 +43,7 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 💡 **The Solution (Action Plan):** 
 1. **Establish realistic expected delivery dates** by aligning system settings with historical lead time data. 
 2. **Consolidate the vendor portfolio** around top-volume vendors to maximize commercial leverage and phase out unreliable bottom-tier suppliers after establishing new realistic deadlines.
-3. **Optimize regional logistics:** Re-evaluate or suspend operations in regions with the sharpest revenue drops at the `Max growth and decline` chart only after establishing realistic deadlines and considering new KPI values.
+3. **Optimize regional logistics:** Re-evaluate or suspend operations in regions with the sharpest revenue drops after considering the previous two points and based on recalculated KPI values.
    
 ---
 
