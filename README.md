@@ -34,7 +34,7 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 
 * **Vendor Pareto Analysis:** Applied the 80/20 rule to segment the 15 vendors based on their annual revenue generation. This served as the diagnostic starting point, revealing that 11 out of 15 vendors form the core group driving the bulk of commercial operations.
 * **Delivery Status:** Applied a Pivot operation to compare deliveries by `Early`, `On Time`, and `Late` statuses, enabling precise calculation of the OTD rate.
-* **Commercial Metrics & Rankings:** Built dynamic pivot tables and charts to track monthly performance trends, identify regional volume distribution, and rank the **Top 10 Vendors** by total annual revenue to evaluate vendor financial impact.
+* **Commercial Metrics & Rankings:** Built dynamic pivot tables and charts to track monthly performance trends, identify regional volume distribution, and ranked **Top 10 Vendors** by total annual revenue to evaluate vendor financial impact.
 
 ---
 
@@ -43,7 +43,7 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 💡 **The Solution (Action Plan):** 
 1. **Establish realistic expected delivery dates** by aligning system settings with historical lead time data. 
 2. **Consolidate the vendor portfolio** around top-volume vendors to maximize commercial leverage and phase out unreliable bottom-tier suppliers after establishing new realistic deadlines.
-3. **Optimize regional logistics:** Re-evaluate or suspend operations in regions with the sharpest revenue drops after considering the previous two points and based on recalculated KPI values.
+3. **Optimize regional logistics:** Re-evaluate or suspend operations in regions with the sharpest revenue drops after considering the previous two points and recalculating KPI values.
    
 ---
 
