@@ -50,5 +50,5 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 ---
 
 ## 📂 5. Workbook Structure
-* **Data Layer (Back-end):** `Clean Data` (Standardized base table), `Query Table` (Transformed Power Query dataset with engineered features).
+* **Data Layer (Back-end):** `Clean Data` (Standardized Excel Table), `Query Table` (Transformed Power Query dataset with engineered features).
 * **Analytical Layer (Front-end):** Multi-page interactive dashboard structured into core analytical models: `Vendor Performance` (OTD/Late analysis), `Lead Time & Volume` (Early rates & Fill Rates), `Category Metrics` (Product trends & Monthly dynamics).
