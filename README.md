@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack & Key Skills
 * **Advanced Excel:** Pivot Tables & Charts, Dynamic Array Functions, Conditional Formatting, Timelines, Cross-functional Slicers
 * **Power Query:** Automated ETL pipelines, Data Cleansing, Feature Engineering
-* **Business Analytics:** ABC/Pareto Analysis, Supply Chain KPIs (OTD, Fill Rate, Lead Time & Delays), Financial Metrics (Revenue, AOV, Avg Revenue per Vendor)
+* **Business Analytics:** ABC/Pareto Analysis, Supply Chain KPIs (OTD, Fill Rate, Lead Time & Delays), Financial Metrics (Revenue, AOV, Average Revenue per Vendor)
 * **Data Visualization & UX:** Minimalist dashboard design, corporate pastel styling, production-ready layouts
 
 ---
