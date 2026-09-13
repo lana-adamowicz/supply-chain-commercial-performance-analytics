@@ -34,7 +34,7 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 
 * **Vendor Pareto Analysis:** Applied the 80/20 rule to segment the 15 vendors based on their annual revenue generation. This served as the diagnostic starting point, revealing that 11 out of 15 vendors form the core group driving the bulk of commercial operations.
 * **Delivery Status:** Applied a Pivot operation to compare deliveries by `Early`, `On Time`, and `Late` statuses, enabling precise calculation of the OTD rate.
-* **Commercial Metrics & Rankings:** Built dynamic pivot tables and charts to track monthly performance trends, identify regional volume distribution, and ranked **Top 10 Vendors** by total annual revenue to evaluate vendor financial impact.
+* **Commercial Metrics & Rankings:** Built dynamic pivot tables and charts to track monthly performance trends, identify regional volume distribution, and ranked **The Top 10 Vendors** by total annual revenue to evaluate their financial impact.
 
 ---
 
