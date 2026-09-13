@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack & Key Skills
 * **Advanced Excel:** Pivot Tables & Charts, Dynamic Array Functions, Conditional Formatting, Timelines, Cross-functional Slicers
 * **Power Query:** Automated ETL pipelines, Data Cleansing, Feature Engineering
-* **Business Analytics:** ABC/Pareto Analysis, Supply Chain KPIs (OTD, Fill Rate, Lead Time & Delays), Financial Metrics (AOV, ARPV)
+* **Business Analytics:** ABC/Pareto Analysis, Supply Chain KPIs (OTD, Fill Rate, Lead Time & Delays), Financial Metrics (AOV, Avg Revenue per Vendor)
 * **Data Visualization & UX:** Minimalist dashboard design, corporate pastel styling, production-ready layouts
 
 ---
@@ -49,4 +49,4 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 
 ## 📂 5. Workbook Structure
 * **Data Layer (Back-end):** `Clean Data` (Standardized base table), `Query Table` (Transformed Power Query dataset with engineered features).
-* **Analytical Layer (Front-end):** Multi-page interactive dashboard structured into core analytical models: `Vendor Performance` (OTD/Late analysis), `Lead Time & Volume` (Early rates & Fill Rates), `Category Metrics` (Product trends & monthly dynamics).
+* **Analytical Layer (Front-end):** Multi-page interactive dashboard structured into core analytical models: `Vendor Performance` (OTD/Late analysis), `Lead Time & Volume` (Early rates & Fill Rates), `Category Metrics` (Product trends & Monthly dynamics).
