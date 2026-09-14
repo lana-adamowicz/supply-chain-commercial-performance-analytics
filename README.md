@@ -15,9 +15,9 @@
 ## 🎯 1. Business Objectives & Approach
 The project was designed as a comprehensive data audit to evaluate the intersection of commercial performance and logistics efficiency across a 12-month period. The analytical workflow was structured into three sequential stages:
 
-* **Commercial Segmentation:** Apply **Pareto (80/20) Analysis** to identify the key vendors which generate 80% of total revenue.
-* **Operational Performance Mapping:** Evaluate network reliability across vendors by measuring core supply chain metrics, specifically **OTD**, **Lead Time**, **Fill Rate**.
-* **Planning vs. Operations Audit:** Cross-reference actual physical delivery timelines with expected delivery dates to detect planning anomalies or baseline mismatches.
+* **Commercial Segmentation:** To apply **Pareto (80/20) Analysis** to identify the key vendors which generate 80% of total revenue.
+* **Operational Performance Mapping:** To evaluate network reliability across vendors by measuring core supply chain metrics, specifically **OTD**, **Lead Time**, **Fill Rate**.
+* **Planning vs. Operations Audit:** To cross-reference actual physical delivery timelines with expected delivery dates to detect planning anomalies or baseline mismatches.
 
 ---
 
