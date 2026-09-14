@@ -25,7 +25,7 @@ The project was designed as a comprehensive data audit to evaluate the intersect
   To ensure high file performance and prevent Excel from freezing or slowing down, **all possible calculations were shifted to Power Query**:
   
 * **Data Cleansing:** Standardized text fields, eliminated duplicates, and aligned data types.
-* **Feature Engineering:** Implemented business logic directly into Power Query to compute financial and logistical metrics (`Revenue`, `Lead Time`, `Delivery Delay`) and extracted `Month Names` to optimize data modeling.
+* **Feature Engineering:** Implemented business logic directly into Power Query, computed financial and logistical metrics (`Revenue`, `Lead Time`, `Delivery Delay`) and extracted `Month Names` to optimize data modeling.
 * **Documentation:** Added clear comments and notes to key transformation steps for absolute process reproducibility.
 
 ---
