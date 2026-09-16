@@ -53,3 +53,25 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 ## 📂 5. Workbook Structure
 * **Data Layer (Back-end):** `Clean Data` (Standardized Excel Table), `Query Table` (Transformed Power Query dataset with engineered features).
 * **Analytical Layer (Front-end):** Multi-page interactive dashboard structured into core analytical models: `Vendor Performance` (OTD/Late analysis), `Lead Time & Volume` (Early rates & Fill Rates), `Category Metrics` (Product trends & Monthly dynamics).
+
+
+<details>
+  <summary>🔍 Expand Cleaned Query_Table Structure (For Team Lead)</summary>
+  <br>
+  
+  > **Note for reviewer:** The first 6 rows of the final dataset are presented below to demonstrate the comprehensive 19-column data structure, custom calculated metrics, and how the ETL logic handles Cancelled, In Transit, and Delivered orders.
+
+  | Order_ID | Vendor_ID | Product_Category | Order_Date | Expected_Delivery_Date | Actual_Delivery_Date | Status | Quantity | Price_Per_Unit | Region | Revenue | Month_Name | Lead_Time | Delivery_Delay | Non_Delivered | Late | On_Time | Early | Delivered_Qty |
+  | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+  | ORD-0001 | VND-007 | Furniture | 01/01/2025 | 10/01/2025 | | Cancelled | 2 | 9500 | Central | 19000 | January | | | 1 | 0 | 0 | 0 | 0 |
+  | ORD-0002 | VND-004 | Apparel | 01/01/2025 | 09/01/2025 | | Cancelled | 18 | 75 | International | 13500 | January | | | 1 | 0 | 0 | 0 | 0 |
+  | ORD-0003 | VND-013 | Office Supplies | 01/01/2025 | 07/01/2025 | 08/01/2025 | Delivered | 55 | 12 | South | 660 | January | 7 | 1 | 0 | 1 | 0 | 0 | 55 |
+  | ORD-0004 | VND-015 | Apparel | 01/01/2025 | 09/01/2025 | | In Transit | 48 | 75 | South | 3600 | January | | | 1 | 0 | 0 | 0 | 0 |
+  | ORD-0005 | VND-011 | Office Supplies | 01/01/2025 | 05/01/2025 | 05/01/2025 | Delivered | 71 | 18 | West | 1278 | January | 4 | 0 | 0 | 0 | 1 | 0 | 71 |
+  | ORD-0006 | VND-008 | Furniture | 01/01/2025 | 07/01/2025 | 10/01/2025 | Delivered | 1 | 12000 | East | 12000 | January | 9 | 3 | 0 | 1 | 0 | 0 | 1 |
+
+  *...5,000 rows in total.*
+
+  👉 **[View Full Cleaned Dataset (CSV)](./query_table.csv)**
+
+</details>
