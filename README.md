@@ -56,7 +56,7 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 
 
 <details>
-  <summary>🔍 Expand Cleaned query_table Structure (For Team Lead)</summary>
+  <summary>🔍 Expand Cleaned Query Table Structure (For Team Lead)</summary>
   <br>
   
   > **Note for reviewer:** The first 6 rows of the final dataset are presented below to demonstrate the comprehensive 19-column data structure, custom calculated metrics, and how the ETL logic handles Cancelled, In Transit, and Delivered orders.
@@ -72,6 +72,6 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 
   *...5,000 rows in total.*
 
-  👉 **[View Full Cleaned Dataset (CSV)](./Query_Table.csv)**
+  👉 **[View Full Cleaned Dataset (Excel)](./query_table.xlsx)**
 
 </details>
