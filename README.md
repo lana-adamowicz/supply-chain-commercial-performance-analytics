@@ -72,6 +72,6 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 
   *...5,000 rows in total.*
 
-  👉 **[View Full Cleaned Dataset (CSV)](./query_table.csv)**
+  👉 **[View Full Cleaned Dataset (CSV)](./Query_Table.csv)**
 
 </details>
