@@ -47,6 +47,12 @@ The project was designed as a comprehensive data audit to evaluate the intersect
 2. **Consolidate the vendor portfolio** around top-volume vendors to maximize commercial leverage and phase out unreliable bottom-tier vendors after establishing new realistic deadlines.
 3. **Optimize regional logistics:** re-evaluate or suspend operations in regions with the sharpest revenue drops after considering the previous two points and recalculating KPI values.
   <img width="1135" height="393" alt="Delivery_Analysis" src="https://github.com/user-attachments/assets/b394205f-30db-4e95-875f-04f43ff9ba32" />
+ 
+  <details>
+<summary><b>🔍 Click to view Chart Insight</b></summary>
+<br>
+This visualization confirms that the 13% OTD rate is a baseline mismatch across all 15 vendors, rather than individual logistics failures. It proves the need for operational timeline realignment.
+</details>
     
 ---
 
